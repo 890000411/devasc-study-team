@@ -1,0 +1,3 @@
+I am on my way the passing the DevNet DEVASC Exam
+I am begginning t o understand GIT
+This text was added orginally while in the feature branch
